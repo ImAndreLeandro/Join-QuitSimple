@@ -29,7 +29,7 @@ public class Main extends JavaPlugin implements Listener {
 	}
 	
 	@EventHandler
-	public void onJoin(PlayerQuitEvent e) {
+	public void onQuit(PlayerQuitEvent e) {
 		Player p = e.getPlayer();
 		
 		String msg = getConfig().getString("Quit");
