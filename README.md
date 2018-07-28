@@ -1,2 +1,2 @@
-# Join-QuitSimple
+# Join&QuitSimple
 Minecraft Plugin
