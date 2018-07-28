@@ -2,4 +2,4 @@
 Simple plugin for Minecraft servers!
 
 # HOW TO MAKE THIS PLUGIN
-Soon...
+##1- First things first!
