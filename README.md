@@ -1,5 +1,5 @@
 # Join&QuitSimple
-Minecraft Plugin
+Simple plugin for Minecraft servers!
 
 # HOW TO MAKE THIS PLUGIN
 Soon...
