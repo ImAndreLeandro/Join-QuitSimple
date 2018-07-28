@@ -1,0 +1,5 @@
+name: Join&QuitSimple
+main: net.imandreleandro.joinquitsimple.Main
+version: 1.0
+author: ImAndreLeandro
+commands:
